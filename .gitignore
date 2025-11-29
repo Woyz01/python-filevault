@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# IDE configs
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Encrypted files
+*.enc
+
+# Test files
+test.txt
+*.txt
